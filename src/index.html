@@ -11,7 +11,7 @@
 <body class="bg-black w-full h-full font-sans">
 
     <main
-        class="h-[100dvh] relative w-full grid grid-cols-[1fr] sm:grid-cols-[.15fr,1fr,.15fr] lg:grid-cols-[.15fr,1fr,.5fr] xl:grid-cols-[.5fr,1fr,.7fr] text-white">
+        class="h-[100dvh] relative w-full grid grid-cols-[1fr] sm:grid-cols-[.15fr,1fr,.15fr] lg:grid-cols-[.15fr,1fr,.5fr] xl:grid-cols-[.5fr,1fr,.7fr]">
 
         <section class="p-2 justify-end relative h-full overflow-auto hidden sm:flex">
             <div class="flex flex-col fixed  items-start sm:w-auto xl:w-[210px] ">
@@ -24,7 +24,7 @@
                         </g>
                     </svg>
                 </div>
-                <nav class="flex flex-col">
+                <nav class="flex flex-col text-white">
 
                     <a
                         class="flex items-start w-auto h-auto cursor-pointer p-3 rounded-full hover:bg-white hover:bg-opacity-10 focus:bg-white focus:bg-opacity-10">
@@ -95,19 +95,78 @@
                     </a>
                 </nav>
 
-                <!-- <button class="bg-blue-500 rounded-full p-2 mt-7 grid place-items-center font-semibold text-[20px] w-full">
+                <!-- <button
+                    class="bg-blue-500 text-white rounded-full p-2 mt-7 grid place-items-center font-semibold text-[20px]  w-full  hover:bg-blue-800 duration-100 transition-all">
                     Post
                 </button> -->
 
-                <a href="#_" class="relative inline-flex items-center justify-start  py-2 w-full mt-7 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
-                    <span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
-                    <span class="relative w-full text-center text-[20px] font-semibold text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Post</span>
-                </a>
+
 
             </div>
         </section>
 
-        <section class="p-2 border-l border-r border-solid border-[#2f3336]">Content section</section>
+        <section class="border-l border-r border-solid border-[#2f3336] relative h-[calc(100vh+15em)] w-full">
+
+
+            <nav
+                class="w-full h-[50px] grid grid-cols-2 items-center bg-black bg-opacity-[.5] sticky top-0 border-b border-solid border-[#2f3336] overflow-hidden">
+
+                <a class="w-full h-full grid place-items-center cursor-pointer hover:bg-white hover:bg-opacity-10 "
+                    href="#_">
+                    <span
+                        class="w-fit mx-auto text-sm font-bold text-white text-center relative after:content-[''] after:absolute after:top-[calc(100%+11px)] after:left-0 after:bg-blue-500 after:h-1 after:w-full after:rounded">For
+                        you</span>
+                </a>
+                <a class="w-full h-full grid place-items-center cursor-pointer hover:bg-white hover:bg-opacity-10"
+                    href="#_">
+                    <span class="w-fit mx-auto text-sm font-medium opacity-60 text-white text-center">Following</span>
+                </a>
+
+            </nav>
+
+            <section>
+
+                <div class="flex flex-col gap-4 w-full" id="append_Posts">
+
+                    <article class="grid grid-cols-[auto,1fr] gap-2 w-full h-auto py-2 px-3">
+
+                        <span>
+                            <svg class="w-10 h-10" fill="#ccd6dd" viewBox="0 0 45.532 45.532">
+                                <g>
+                                    <path d="M22.766,0.001C10.194,0.001,0,10.193,0,22.766s10.193,22.765,22.766,22.765c12.574,0,22.766-10.192,22.766-22.765
+                                        S35.34,0.001,22.766,0.001z M22.766,6.808c4.16,0,7.531,3.372,7.531,7.53c0,4.159-3.371,7.53-7.531,7.53
+                                        c-4.158,0-7.529-3.371-7.529-7.53C15.237,10.18,18.608,6.808,22.766,6.808z M22.761,39.579c-4.149,0-7.949-1.511-10.88-4.012
+                                        c-0.714-0.609-1.126-1.502-1.126-2.439c0-4.217,3.413-7.592,7.631-7.592h8.762c4.219,0,7.619,3.375,7.619,7.592
+                                        c0,0.938-0.41,1.829-1.125,2.438C30.712,38.068,26.911,39.579,22.761,39.579z">
+                                    </path>
+                                </g>
+                            </svg>
+                        </span>
+
+
+                        <div class="flex flex-col gap-1 text-white">
+
+                            <div class="flex items-center gap-2">
+                                <h5 class="text-sm font-semibold">CharlieChaser</h5>
+                                <span class="text-sm font-light opacity-50">@CharlieChaser</span>
+                            </div>
+
+                            <p class="text-sm font-normal">Can't believe how fast this year is going! @DaisyDreamer</p>
+
+                            
+
+                        </div>
+
+
+                    </article>
+
+
+                </div>
+
+            </section>
+
+
+        </section>
         <section class="p-2 hidden lg:flex">Right section</section>
 
 

@@ -1,306 +1,32 @@
 [
     {
-        "user": "AliceWonders",
-        "username": "@AliceWonders",
-        "content": "Excited to start my new project! @BobBuilder",
-        "timestamp": "2025-01-01T10:00:00Z",
-        "imageUrl": "https://example.com/image1.jpg",
-        "videoUrl": null
+        "user": "Raghu",
+        "username": "@IndiaTales7",
+        "content": "Thread which shows you who is the real Boss.",
+        "imageUrl": "https://pbs.twimg.com/media/Gg2RQqEaMAElMWe?format=jpg&name=small"
     },
     {
-        "user": "BobBuilder",
-        "username": "@BobBuilder",
-        "content": "Just finished reading a great book! @CharlieChaser",
-        "timestamp": "2025-01-01T10:15:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video1.mp4"
+        "user": "Hindustan Times",
+        "username": "@htTweets",
+        "content": "Second body of trapped worker recovered from flooded #Assam coal #mine",
+        "imageUrl": "https://pbs.twimg.com/card_img/1877964073775800320/WlRVCi81?format=jpg&name=small"
     },
     {
-        "user": "CharlieChaser",
-        "username": "@CharlieChaser",
-        "content": "Can't believe how fast this year is going! @DaisyDreamer",
-        "timestamp": "2025-01-01T10:30:00Z",
-        "imageUrl": "https://example.com/image2.jpg",
-        "videoUrl": null
+        "user": "HT Entertainment",
+        "username": "@htshowbiz",
+        "content": "Fateh box office collection day 1: Sonu Sood's directorial debut opens at Rs 2.45cr",
+        "imageUrl": "https://pbs.twimg.com/card_img/1877931696005500928/Ne_8azFG?format=jpg&name=small"
     },
     {
-        "user": "DaisyDreamer",
-        "username": "@DaisyDreamer",
-        "content": "Happy New Year, everyone! @EthanExplorer",
-        "timestamp": "2025-01-01T11:00:00Z",
-        "imageUrl": null,
-        "videoUrl": null
+        "user": "CrickIt",
+        "username": "@CrickitbyHT",
+        "content": "In the aftermath of the Test series against Australia, Sanjay Manjrekar discussed the icon culture within the country's cricket ecosystem",
+        "imageUrl": "https://pbs.twimg.com/card_img/1877942568865951744/FhjtZDPI?format=jpg&name=small"
     },
     {
-        "user": "EthanExplorer",
-        "username": "@EthanExplorer",
-        "content": "Looking forward to some snow this weekend. @FionaFoodie",
-        "timestamp": "2025-01-01T12:00:00Z",
-        "imageUrl": "https://example.com/image3.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "FionaFoodie",
-        "username": "@FionaFoodie",
-        "content": "Coffee is life. @GabeGamer",
-        "timestamp": "2025-01-01T12:30:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video2.mp4"
-    },
-    {
-        "user": "GabeGamer",
-        "username": "@GabeGamer",
-        "content": "Working on my coding skills today! @HollyHiker",
-        "timestamp": "2025-01-01T13:00:00Z",
-        "imageUrl": "https://example.com/image4.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "HollyHiker",
-        "username": "@HollyHiker",
-        "content": "Anyone up for a game tonight? @IanInnovator",
-        "timestamp": "2025-01-01T14:00:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video3.mp4"
-    },
-    {
-        "user": "IanInnovator",
-        "username": "@IanInnovator",
-        "content": "Can't wait for the weekend! @JennaJovial",
-        "timestamp": "2025-01-01T15:00:00Z",
-        "imageUrl": "https://example.com/image5.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "JennaJovial",
-        "username": "@JennaJovial",
-        "content": "Just had a delicious lunch. @KyleKind",
-        "timestamp": "2025-01-01T15:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "KyleKind",
-        "username": "@KyleKind",
-        "content": "Loving the new season of my favorite show! @LunaListener",
-        "timestamp": "2025-01-01T16:00:00Z",
-        "imageUrl": "https://example.com/image6.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "LunaListener",
-        "username": "@LunaListener",
-        "content": "Who else is watching the game tonight? @MaxMotivator",
-        "timestamp": "2025-01-01T16:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "MaxMotivator",
-        "username": "@MaxMotivator",
-        "content": "It's a beautiful day outside! @NinaNature",
-        "timestamp": "2025-01-01T17:00:00Z",
-        "imageUrl": "https://example.com/image7.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "NinaNature",
-        "username": "@NinaNature",
-        "content": "Just got back from a great run. @OscarOptimist",
-        "timestamp": "2025-01-01T17:30:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video4.mp4"
-    },
-    {
-        "user": "OscarOptimist",
-        "username": "@OscarOptimist",
-        "content": "Planning my next travel adventure! @PaulaPlanner",
-        "timestamp": "2025-01-01T18:00:00Z",
-        "imageUrl": "https://example.com/image8.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "PaulaPlanner",
-        "username": "@PaulaPlanner",
-        "content": "Have you tried the new restaurant in town? @QuinnQuest",
-        "timestamp": "2025-01-01T18:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "QuinnQuest",
-        "username": "@QuinnQuest",
-        "content": "Feeling inspired today! @RyanReader",
-        "timestamp": "2025-01-01T19:00:00Z",
-        "imageUrl": "https://example.com/image9.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "RyanReader",
-        "username": "@RyanReader",
-        "content": "Looking forward to the concert this weekend. @SaraSketch",
-        "timestamp": "2025-01-01T19:30:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video5.mp4"
-    },
-    {
-        "user": "SaraSketch",
-        "username": "@SaraSketch",
-        "content": "Just started a new hobby: painting! @TommyTraveler",
-        "timestamp": "2025-01-01T20:00:00Z",
-        "imageUrl": "https://example.com/image10.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "TommyTraveler",
-        "username": "@TommyTraveler",
-        "content": "Can't believe it's already January! @UmaUniverse",
-        "timestamp": "2025-01-01T20:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "UmaUniverse",
-        "username": "@UmaUniverse",
-        "content": "Excited for the new year ahead! @VeraVitality",
-        "timestamp": "2025-01-02T10:00:00Z",
-        "imageUrl": "https://example.com/image11.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "VeraVitality",
-        "username": "@VeraVitality",
-        "content": "Happy to be back at the gym. @WaltWriter",
-        "timestamp": "2025-01-02T10:15:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video6.mp4"
-    },
-    {
-        "user": "WaltWriter",
-        "username": "@WaltWriter",
-        "content": "What a productive day! @XenaXplorer",
-        "timestamp": "2025-01-02T10:30:00Z",
-        "imageUrl": "https://example.com/image12.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "XenaXplorer",
-        "username": "@XenaXplorer",
-        "content": "Just completed a challenging puzzle. @AliceWonders",
-        "timestamp": "2025-01-02T11:00:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "AliceWonders",
-        "username": "@AliceWonders",
-        "content": "Time for some self-care! @BobBuilder",
-        "timestamp": "2025-01-02T12:30:00Z",
-        "imageUrl": "https://example.com/image14.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "BobBuilder",
-        "username": "@BobBuilder",
-        "content": "Feeling creative today! @CharlieChaser",
-        "timestamp": "2025-01-02T13:00:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video8.mp4"
-    },
-    {
-        "user": "CharlieChaser",
-        "username": "@CharlieChaser",
-        "content": "Trying out a new recipe tonight. @DaisyDreamer",
-        "timestamp": "2025-01-02T14:00:00Z",
-        "imageUrl": "https://example.com/image15.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "DaisyDreamer",
-        "username": "@DaisyDreamer",
-        "content": "Anyone else obsessed with this song? @EthanExplorer",
-        "timestamp": "2025-01-02T14:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "EthanExplorer",
-        "username": "@EthanExplorer",
-        "content": "Just booked my next vacation! @FionaFoodie",
-        "timestamp": "2025-01-02T15:00:00Z",
-        "imageUrl": "https://example.com/image16.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "FionaFoodie",
-        "username": "@FionaFoodie",
-        "content": "Can't wait to try this new coffee shop! @GabeGamer",
-        "timestamp": "2025-01-02T15:30:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video9.mp4"
-    },
-    {
-        "user": "GabeGamer",
-        "username": "@GabeGamer",
-        "content": "Just got a new game! @HollyHiker",
-        "timestamp": "2025-01-02T16:00:00Z",
-        "imageUrl": "https://example.com/image17.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "HollyHiker",
-        "username": "@HollyHiker",
-        "content": "Taking a break from social media. @IanInnovator",
-        "timestamp": "2025-01-02T16:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "IanInnovator",
-        "username": "@IanInnovator",
-        "content": "Working on a new app idea! @JennaJovial",
-        "timestamp": "2025-01-02T17:00:00Z",
-        "imageUrl": "https://example.com/image18.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "JennaJovial",
-        "username": "@JennaJovial",
-        "content": "Just finished a long day at work. @KyleKind",
-        "timestamp": "2025-01-02T17:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
-    },
-    {
-        "user": "KyleKind",
-        "username": "@KyleKind",
-        "content": "Can't believe it's already midweek! @LunaListener",
-        "timestamp": "2025-01-02T18:00:00Z",
-        "imageUrl": "https://example.com/image19.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "LunaListener",
-        "username": "@LunaListener",
-        "content": "Time for some relaxation! @MaxMotivator",
-        "timestamp": "2025-01-02T18:30:00Z",
-        "imageUrl": null,
-        "videoUrl": "https://example.com/video10.mp4"
-    },
-    {
-        "user": "MaxMotivator",
-        "username": "@MaxMotivator",
-        "content": "Can't wait for the weekend plans! @NinaNature",
-        "timestamp": "2025-01-02T19:00:00Z",
-        "imageUrl": "https://example.com/image20.jpg",
-        "videoUrl": null
-    },
-    {
-        "user": "NinaNature",
-        "username": "@NinaNature",
-        "content": "Going for a hike tomorrow! @OscarOptimist",
-        "timestamp": "2025-01-02T19:30:00Z",
-        "imageUrl": null,
-        "videoUrl": null
+        "user": "HT Auto",
+        "username": "@HTAutotweets",
+        "content": "Honda Elevate Black Edition launches in India, featuring a sleek blacked-out design and enhanced features. Deliveries set to begin soon.",
+        "imageUrl": "https://pbs.twimg.com/card_img/1877941320871976961/SQCuoBF3?format=jpg&name=small"
     }
 ]
